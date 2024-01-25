@@ -11,7 +11,7 @@ console.log(otherRandomCar)
 
 
 const employee = {
-    name: 'Elon',
+    name: 'Maria',
     age: 47,
     company: 'Tesla'
 }
